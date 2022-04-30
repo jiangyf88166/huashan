@@ -12,3 +12,4 @@ jiangyf88166邀请
 我会独孤九剑，哈哈！你不会
 验证pull = fetch + merge
 我是东方不败，这是葵花宝典秘籍，快来学，学不好打一顿！
+test ssh login
