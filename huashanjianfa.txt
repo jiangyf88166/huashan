@@ -13,3 +13,5 @@ jiangyf88166邀请
 验证pull = fetch + merge
 我是东方不败，这是葵花宝典秘籍，快来学，学不好打一顿！
 test ssh login
+
+github更新项目，gitee可以将github更新代码同步过来
